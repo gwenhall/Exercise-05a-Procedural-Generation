@@ -87,8 +87,6 @@ func make_maze():
 			add_child(t)
 ```
 
-As described in the KidsCanCode tutorial and in the demonstration video, this script uses a Recursive Backtracker algorithm to produce a fully-connected randomized maze. Run the res://Maze/Maze.tscn scene and see the resulting maze. The contents of Maze.gd would be a great snippet to add to your gists.
-
 # Exercise-05a-Procedural-Generation
 Exercise for MSCH-C220, 22 March 2021
 
