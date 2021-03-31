@@ -1,4 +1,4 @@
-The first step is to create the tiles we will use to generate the maze. Under the Scene menu, select "New Inherited Scene…". Select res://Maze/Tile.tscn. In the new scene, change the name of the Tile node to 00, and then change the Texture property of the Sprite node to res://Assets/00.png. Save the scene as res://Maze/00.tscn (*make sure you save it in the Maze folder or the script will not work!*).
+In the new scene, change the name of the Tile node to 00, and then change the Texture property of the Sprite node to res://Assets/00.png. Save the scene as res://Maze/00.tscn (*make sure you save it in the Maze folder or the script will not work!*).
 
 Repeat these steps for scenes 01–15. When you are done, you should have sixteen new scenes in the Maze folder (named 00.tscn–15.tscn). Each of these scenes should have a different texture for the Sprite node. For example, res://Maze/05.tscn should use the res://Assets/05.png file as the texture for the Sprite in that scene.
 
